@@ -56,13 +56,7 @@ sections:
       styles:
         self:
           textAlign: left
-    actions:
-      - type: Link
-        label: Watch Video
-        url: /
-        showIcon: true
-        icon: playCircle
-        iconPosition: left
+    actions: []
     styles:
       self:
         height: auto
