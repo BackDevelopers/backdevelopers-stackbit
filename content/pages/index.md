@@ -221,7 +221,7 @@ sections:
               - pb-6
               - pr-4
       - type: FeaturedItem
-        title: Focused
+        title: Search engine optimization (SEO)
         text: >
           Learn how top tech companies have learned working remote using our
           product.
