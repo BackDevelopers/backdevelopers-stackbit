@@ -86,12 +86,6 @@
             },
             {
                 "type": "Link",
-                "label": "Careers",
-                "url": "/careers",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Services",
                 "url": "/faq",
                 "altText": ""
