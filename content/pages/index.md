@@ -51,7 +51,7 @@ sections:
       product.
     badge:
       type: Badge
-      label: Case study
+      label: 'Why choose '
       styles:
         self:
           textAlign: left
