@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: "Creative Advertising\_&\_Branding Agency"
-    subtitle: We can help your business to grow
+    subtitle: We can help your business grow
     actions:
       - type: Button
         label: Our services
