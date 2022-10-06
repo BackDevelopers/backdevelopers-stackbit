@@ -57,10 +57,6 @@ sections:
         self:
           textAlign: left
     actions:
-      - type: Button
-        label: Get Started
-        url: /
-        style: primary
       - type: Link
         label: Watch Video
         url: /
