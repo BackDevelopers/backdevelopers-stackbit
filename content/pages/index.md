@@ -51,7 +51,7 @@ sections:
       product.
     badge:
       type: Badge
-      label: Why chose us ?
+      label: Why choose us?
       styles:
         self:
           textAlign: left
