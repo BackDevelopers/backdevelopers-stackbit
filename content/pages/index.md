@@ -48,9 +48,8 @@ sections:
     title: >-
       We can create any landing page at the best price on the market with free
       hosting
-    text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+    text: |
+      Wordpress, Html, Jamstack and React 
     badge:
       type: Badge
       label: Why choose us?
