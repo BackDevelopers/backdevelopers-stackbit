@@ -45,7 +45,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: We can create any landing page at best price on the market
+    title: We can create any landing page at the best price on the market
     text: >
       Learn how top tech companies have learned working remote using our
       product.
