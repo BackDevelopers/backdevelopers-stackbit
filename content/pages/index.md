@@ -171,7 +171,7 @@ sections:
       you’re looking for.
     items:
       - type: FeaturedItem
-        title: Search engine optimization (SEO)
+        title: Web development
         text: >
           Learn how top tech companies have learned working remote using our
           product.
