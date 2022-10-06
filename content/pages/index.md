@@ -9,7 +9,7 @@ sections:
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
-        label: Get Started
+        label: Our services
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Link
