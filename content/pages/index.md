@@ -9,7 +9,7 @@ sections:
     subtitle: We can help your business grow
     actions:
       - type: Button
-        label: Our services
+        label: 'Find '
         url: 'https://www.stackbit.com/'
         style: primary
     media:
