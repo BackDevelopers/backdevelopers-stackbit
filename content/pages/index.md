@@ -50,7 +50,6 @@ sections:
       Wordpress, Html, Jamstack and React 
     badge:
       type: Badge
-      label: Why choose us?
       styles:
         self:
           textAlign: left
