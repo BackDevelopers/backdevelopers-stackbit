@@ -45,9 +45,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: >-
-      We can create any landing page at the best price on the market with free
-      hosting
+    title: 'How to create '
     text: |
       Wordpress, Html, Jamstack and React 
     badge:
