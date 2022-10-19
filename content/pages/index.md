@@ -11,6 +11,7 @@ sections:
       - type: Button
         url: 'https://www.stackbit.com/'
         style: primary
+        label: Blog
     media:
       type: ImageBlock
       url: /images/Web-Development-removebg-preview.png
