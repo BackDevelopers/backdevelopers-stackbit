@@ -19,5 +19,5 @@ postFeed:
 styles:
   title:
     textAlign: center
-metaTitle: website
+metaTitle: 'website development in '
 ---
