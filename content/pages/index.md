@@ -502,7 +502,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: inset
-    title: Get early access
+    title: Get Latest news in your inbox
     text: >
       Sign up your team today to be the first to try out our new product to
       increase your team’s productivity
