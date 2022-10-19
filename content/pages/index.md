@@ -14,7 +14,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/Web-Development-removebg-preview.png
       altText: Image alt text
       caption: Image caption
     styles:
