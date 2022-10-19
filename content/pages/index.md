@@ -104,7 +104,7 @@ sections:
         altText: Google Play
         caption: Google Play
       - type: ImageBlock
-        url: /images/playstation.svg
+        url: /images/download__1_-removebg-preview.png
         altText: PlayStation
         caption: PlayStation
       - type: ImageBlock
