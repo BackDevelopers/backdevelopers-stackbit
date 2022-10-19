@@ -548,5 +548,5 @@ sections:
       text:
         textAlign: center
 metaTitle: SEO optimisation in United Kingdom
-metaDescription: Search engine optimisation
+metaDescription: Search Engine optimisation
 ---
