@@ -53,6 +53,7 @@ sections:
       styles:
         self:
           textAlign: left
+      label: FAQ
     actions: []
     styles:
       self:
