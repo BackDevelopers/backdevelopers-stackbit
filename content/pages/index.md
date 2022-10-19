@@ -45,7 +45,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: 'How to create '
+    title: How to create a website in 5 minutes
     text: |
       Wordpress, Html, Jamstack and React 
     badge:
