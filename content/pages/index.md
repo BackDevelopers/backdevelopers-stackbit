@@ -100,7 +100,7 @@ sections:
         altText: Apple
         caption: Apple
       - type: ImageBlock
-        url: /images/google-play.svg
+        url: /images/React-icon.svg-removebg-preview.png
         altText: Google Play
         caption: Google Play
       - type: ImageBlock
