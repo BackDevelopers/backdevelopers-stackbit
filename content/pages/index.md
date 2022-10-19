@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: "Creative Advertising\_&\_Branding Agency"
+    title: Web development blog
     subtitle: We can help your business grow
     actions:
       - type: Button
