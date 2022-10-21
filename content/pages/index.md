@@ -45,7 +45,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: we can develop professional landing page with free hosting
+    title: >-
+      we can develop professional landing page with free hosting on cheapest
+      price
     text: |
       Wordpress, Html, Jamstack and React 
     badge:
