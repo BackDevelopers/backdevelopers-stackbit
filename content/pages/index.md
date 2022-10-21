@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Web development blog
+    title: Website development SEO optimised
     subtitle: We can help your business grow
     actions:
       - type: Button
