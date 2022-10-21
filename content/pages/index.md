@@ -47,7 +47,7 @@ sections:
     backgroundSize: inset
     title: >-
       we can develop professional landing page with free hosting at the cheapest
-      price on the marketLi
+      price on the market
     text: |
       Wordpress, Html, Jamstack and React 
     badge:
