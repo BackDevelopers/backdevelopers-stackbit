@@ -45,7 +45,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: How to create a professional  website in 5 minutes
+    title: we can develop professional landing page with free hosting
     text: |
       Wordpress, Html, Jamstack and React 
     badge:
