@@ -548,4 +548,8 @@ sections:
         textAlign: center
 metaTitle: SEO optimisation in UK
 metaDescription: 'Search Engine Optimisation '
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
