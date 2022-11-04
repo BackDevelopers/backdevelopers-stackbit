@@ -554,5 +554,5 @@ metaTags:
     content: seo
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: SEO
 ---
