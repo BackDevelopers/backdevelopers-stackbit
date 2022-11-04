@@ -303,6 +303,7 @@ sections:
         flexDirection: row
       title:
         textAlign: left
+        fontWeight: 700
       subtitle:
         textAlign: left
       text:
