@@ -263,7 +263,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-b
     title: Why seo optimization is important when building a new site ?
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
