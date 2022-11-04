@@ -264,7 +264,7 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-h
-    title: Why SEO optimization is important when building a new site ?
+    title: Why SEO optimization is important when building a new website ?
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
