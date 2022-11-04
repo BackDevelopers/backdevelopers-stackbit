@@ -551,5 +551,5 @@ metaDescription: 'Search Engine Optimisation '
 metaTags:
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: seo
 ---
