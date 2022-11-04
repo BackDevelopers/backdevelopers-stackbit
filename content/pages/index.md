@@ -552,4 +552,7 @@ metaTags:
   - type: MetaTag
     property: 'og:title'
     content: seo
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
