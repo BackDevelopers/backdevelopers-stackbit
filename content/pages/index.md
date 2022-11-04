@@ -197,6 +197,7 @@ sections:
             self:
               opacity: 100
           type: ImageBlock
+          url: /images/React-icon.svg-removebg-preview.png
         styles:
           self:
             textAlign: left
