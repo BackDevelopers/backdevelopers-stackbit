@@ -364,8 +364,11 @@ sections:
     colors: colors-a
     variant: variant-b
     title: >-
-      We sometimes write things. You should read it, it might shed some light on
-      why we’re doing what we’re doing
+      BuildersPlumbersElectriciansScaffoldersConcrete and Floor
+      screedersCarpentersBricklayersRoofersTilersBathroom InstallersBuilders
+      MerchantsAll tradesServicesSmall retail outletsSlall online
+      BusinessFinancialInsuranceTransportSecurityhome-based
+      businessCleaningHotelsLeisureAnimals and pets
     actions:
       - type: Link
         label: See all posts
