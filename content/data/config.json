@@ -83,8 +83,7 @@
             "email": "info@lorem.mail",
             "emailAltText": "Our email",
             "address": " Moldova, Chisinau, Keywords LTD ",
-            "addressAltText": "Our address",
-            "phoneAltText": "testy"
+            "addressAltText": "Our address"
         },
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
         "primaryLinks": [
