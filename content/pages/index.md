@@ -315,9 +315,27 @@ sections:
   - elementId: ''
     colors: colors-a
     title: And a strong value proposition
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: |+
+      *   Startups
+
+      *   Entrepreneurs
+
+      *   Individuals
+
+      *   Portfolios
+
+      *   Software
+
+      *   IT services
+
+      *   SAAS companies
+
+      *   Crypto
+
+      *   SEO Agency’s
+
+      *   Clubs and Non Profits
+
     actions:
       - type: Button
         label: Get Started
