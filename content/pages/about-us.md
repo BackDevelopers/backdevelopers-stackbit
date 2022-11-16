@@ -19,10 +19,7 @@ sections:
       competition comparisons without all the usual SEO jargon. In turn, you can
       make well-informed decisions on making a difference to the impact of your
       website on the search engines thus, increasing both visits to your website
-      and conversions.Our Tactical approach keeps it all really simple and
-      offers honest off-shelf prices rather than tailor-made crazy
-      out-of-this-world budgets that most can’t afford. (you won’t pay for our
-      30 day holidays as an example)We are a google ads and seo specialist
+      and conversions.We are a google ads and seo specialist
     styles:
       self:
         height: auto
