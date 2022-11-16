@@ -28,7 +28,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "About US",
                 "altText": "",
                 "url": "/test",
                 "showIcon": false,
