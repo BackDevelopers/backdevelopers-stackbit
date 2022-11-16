@@ -9,7 +9,7 @@ title: About US
 sections:
   - type: TextSection
     colors: colors-a
-    title: About US
+    title: About us
     subtitle: >-
       We know SEO – We know how to RANKHow SEO mates help…Back Developers is a
       team of international professionals who will help with search engine
