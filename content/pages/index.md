@@ -6,7 +6,10 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Website development SEO optimised
-    subtitle: We can help your business grow
+    subtitle: >-
+      SEO maters for your website, new and startup businesses… We offer that
+      bunk-up so say to align your website to Google, Bing and the many other
+      search engines
     actions:
       - type: Button
         url: 'https://www.stackbit.com/'
