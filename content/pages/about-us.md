@@ -19,7 +19,7 @@ sections:
       competition comparisons without all the usual SEO jargon. In turn, you can
       make well-informed decisions on making a difference to the impact of your
       website on the search engines thus, increasing both visits to your website
-      and conversions.We are a google ads and seo specialist
+      and conversions. We are a google ads and seo specialist
     styles:
       self:
         height: auto
