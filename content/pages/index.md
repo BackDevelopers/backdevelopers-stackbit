@@ -265,11 +265,10 @@ sections:
   - elementId: ''
     colors: colors-h
     title: Why SEO optimization is important when building a new website ?
-    text: |+
-      SEO maters for your website, new and startup and existing companies
-
-       … We offer that bunk-up so say to align your website to Google, Bing and the many other search engines
-
+    text: >
+      SEO maters for your website, new and startup and existing companies… We
+      offer that bunk-up so say to align your website to Google, Bing and the
+      many other search engines
     actions:
       - type: Button
         label: Get Started
