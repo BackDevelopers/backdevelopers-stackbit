@@ -6,19 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Website development SEO optimised
-    subtitle: >-
-      We know SEO – We know how to RANKHow SEO mates help…Back Developers is a
-      team of international professionals who will help with search engine
-      optimisation and web development. We align your website with Google and
-      Bing and can help with site speed, content issues, and all other sorts of
-      SEO-related hurdles.Our services provide simple industry-specific
-      competition comparisons without all the usual SEO jargon. In turn, you can
-      make well-informed decisions on making a difference to the impact of your
-      website on the search engines thus, increasing both visits to your website
-      and conversions.Our Tactical approach keeps it all really simple and
-      offers honest off-shelf prices rather than tailor-made crazy
-      out-of-this-world budgets that most can’t afford. (you won’t pay for our
-      30 day holidays as an example)We are a google ads and seo specialist
+    subtitle: test
     actions:
       - type: Button
         url: 'https://www.stackbit.com/'
